@@ -1,5 +1,5 @@
 // First of all, we define url where get data
-const DATA_URL = 'https://buivannguyen.com/girl-puzzle-android-app/sample_data.json';
+const DATA_URL = 'https://raw.githubusercontent.com/buivannguyen/girl-puzzle-android-app/master/sample_data.json';
 
 /*
  * Network object
