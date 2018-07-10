@@ -1,6 +1,6 @@
 [
-	{
-		"image": "https://uphinhnhanh.com/images/2018/07/10/17e3c7.jpg",
+    {
+        "image": "https://uphinhnhanh.com/images/2018/07/10/17e3c7.jpg",
         "questions": [
             {
                 "question": "Váy cô gái mặc màu gì?",
@@ -33,190 +33,190 @@
                 "correct": 1
             }
         ]
-	},
-	{
-		"image": "https://uphinhnhanh.com/images/2018/07/10/2e6ede.jpg",
-		"questions": [
-			{
-				"question": "Có bao nhiêu cô gái trong bức hình?",
-				"answers":[
-					"5",
-					"6",
-					"7",
-					"8"
-				],
-				"correct": 1
-			},
-			{
-				"question": "Chỉ một cô gái mặc váy, đó là cô gái...",
-				"answers":[
-					"Ngoài cùng bên phải",
-					"Ngoài cùng bên trái",
-					"Thứ 3 từ trái sang",
-					"Thứ 2 từ phải sang"
-				],
-				"correct": 0
-			},
-			{
-				"question": "Có bao nhiêu cô gái đeo kính?",
-				"answers":[
-					"Không có",
-					"1",
-					"2",
-					"3"
-				],
-				"correct": 1
-			},
-			{
-				"question": "Cô gái nào để điện thoại ở túi quần sau?",
-				"answers":[
-					"Cô thứ 2 phải sang",
-					"Cô thứ 3 trái sang",
-					"Cô thứ 2 trái sang",
-					"Cô thứ 3 phải sang"
-				],
-				"correct": 2
-			}
-		]
-	},
-	{
-		"image": "https://uphinhnhanh.com/images/2018/07/10/3c9052.jpg",
-		"questions": [
-			{
-				"question": "Hình vẽ trong bức tranh trên tường là gì?",
-				"answers":[
-					"Núi non",
-					"Thác nước",
-					"Con mèo",
-					"Một cô gái"
-				],
-				"correct": 1
-			},
-			{
-				"question": "Cô gái có hình xăm ở...",
-				"answers":[
-					"Tay phải",
-					"Tay trái",
-					"Chân phải",
-					"Chân trái"
-				],
-				"correct": 3
-			},
-			{
-				"question": "Áo cô gái mặc có màu gì?",
-				"answers":[
-					"Vàng",
-					"Đen",
-					"Xanh",
-					"Trắng"
-				],
-				"correct": 2
-			},
-			{
-				"question": "ổ điện bên cạnh cô gái có mấy chỗ cắm?",
-				"answers":[
-					"1",
-					"2",
-					"3",
-					"4"
-				],
-				"correct": 0
-			}
-		]
-	},
-	{
-		"image": "https://uphinhnhanh.com/images/2018/07/10/43ee03.jpg",
-		"questions": [
-			{
-				"question": "Cô nào cầm điện thoại, ở tay nào?",
-				"answers":[
-					"Cô bên trái cầm đt tay phải",
-					"Cô bên trái cầm đt tay trái",
-					"Cô bên phải cầm đt tay phải",
-					"Cô bên phải cầm đt tay trái"
-				],
-				"correct": 2
-			},
-			{
-				"question": "Cô gái bên trái...",
-				"answers":[
-					"Cầm điện thoại",
-					"Có thêu hoa ở quần",
-					"Mặc quần xanh",
-					"Đeo vòng tay"
-				],
-				"correct": 1
-			},
-			{
-				"question": "Con số trên tay áo cô gái bên trái?",
-				"answers":[
-					"23",
-					"32",
-					"21",
-					"12"
-				],
-				"correct": 1
-			}
-		]
-	},
-	{
-		"image": "https://uphinhnhanh.com/images/2018/07/10/5dea1d.jpg",
-		"questions": [
-			{
-				"question": "Hình xăm trên ngực cô gái là...",
-				"answers":[
-					"Hình Phật",
-					"Hình con bướm",
-					"Hình thập gía",
-					"Hình bông hoa"
-				],
-				"correct": 1
-			},
-			{
-				"question": "Hình xăm trên tay cô gái là...",
-				"answers":[
-					"Hình Phật",
-					"Hình con bướm",
-					"Hình thập gía",
-					"Hình bông hoa"
-				],
-				"correct": 2
-			},
-			{
-				"question": "Cô gái ngồi trên tấm đệm màu gì?",
-				"answers":[
-					"Hồng",
-					"Trắng",
-					"Xanh",
-					"Vàng"
-				],
-				"correct": 1
-			}
-		]
-	},
-	{
-		"image": "https://uphinhnhanh.com/images/2018/07/10/67f304.jpg",
-		"questions": [
-			{
-				"question": "Cô gái mang giày màu gì",
-				"answers":[
-					"Đen",
-					"Trắng đen",
-					"Trắng",
-					"Hồng"
-				],
-				"correct": 2
-			},
-			{
-				"question": "Hoa văn trên áo khoác ngoài?",
-				"answers":[
-					"Hình con bướm",
-					"Hình bông hoa",
-					"Hình kẻ sọc",
-					"Hình kẻ caro"
-				],
-				"correct": 1
-			}
-		]
-	}
+    },
+    {
+        "image": "https://uphinhnhanh.com/images/2018/07/10/2e6ede.jpg",
+        "questions": [
+            {
+                "question": "Có bao nhiêu cô gái trong bức hình?",
+                "answers":[
+                    "5",
+                    "6",
+                    "7",
+                    "8"
+                ],
+                "correct": 1
+            },
+            {
+                "question": "Chỉ một cô gái mặc váy, đó là cô gái...",
+                "answers":[
+                    "Ngoài cùng bên phải",
+                    "Ngoài cùng bên trái",
+                    "Thứ 3 từ trái sang",
+                    "Thứ 2 từ phải sang"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Có bao nhiêu cô gái đeo kính?",
+                "answers":[
+                    "Không có",
+                    "1",
+                    "2",
+                    "3"
+                ],
+                "correct": 1
+            },
+            {
+                "question": "Cô gái nào để điện thoại ở túi quần sau?",
+                "answers":[
+                    "Cô thứ 2 phải sang",
+                    "Cô thứ 3 trái sang",
+                    "Cô thứ 2 trái sang",
+                    "Cô thứ 3 phải sang"
+                ],
+                "correct": 2
+            }
+        ]
+    },
+    {
+        "image": "https://uphinhnhanh.com/images/2018/07/10/3c9052.jpg",
+        "questions": [
+            {
+                "question": "Hình vẽ trong bức tranh trên tường là gì?",
+                "answers":[
+                    "Núi non",
+                    "Thác nước",
+                    "Con mèo",
+                    "Một cô gái"
+                ],
+                "correct": 1
+            },
+            {
+                "question": "Cô gái có hình xăm ở...",
+                "answers":[
+                    "Tay phải",
+                    "Tay trái",
+                    "Chân phải",
+                    "Chân trái"
+                ],
+                "correct": 3
+            },
+            {
+                "question": "Áo cô gái mặc có màu gì?",
+                "answers":[
+                    "Vàng",
+                    "Đen",
+                    "Xanh",
+                    "Trắng"
+                ],
+                "correct": 2
+            },
+            {
+                "question": "ổ điện bên cạnh cô gái có mấy chỗ cắm?",
+                "answers":[
+                    "1",
+                    "2",
+                    "3",
+                    "4"
+                ],
+                "correct": 0
+            }
+        ]
+    },
+    {
+        "image": "https://uphinhnhanh.com/images/2018/07/10/43ee03.jpg",
+        "questions": [
+            {
+                "question": "Cô nào cầm điện thoại, ở tay nào?",
+                "answers":[
+                    "Cô bên trái cầm đt tay phải",
+                    "Cô bên trái cầm đt tay trái",
+                    "Cô bên phải cầm đt tay phải",
+                    "Cô bên phải cầm đt tay trái"
+                ],
+                "correct": 2
+            },
+            {
+                "question": "Cô gái bên trái...",
+                "answers":[
+                    "Cầm điện thoại",
+                    "Có thêu hoa ở quần",
+                    "Mặc quần xanh",
+                    "Đeo vòng tay"
+                ],
+                "correct": 1
+            },
+            {
+                "question": "Con số trên tay áo cô gái bên trái?",
+                "answers":[
+                    "23",
+                    "32",
+                    "21",
+                    "12"
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "image": "https://uphinhnhanh.com/images/2018/07/10/5dea1d.jpg",
+        "questions": [
+            {
+                "question": "Hình xăm trên ngực cô gái là...",
+                "answers":[
+                    "Hình Phật",
+                    "Hình con bướm",
+                    "Hình thập gía",
+                    "Hình bông hoa"
+                ],
+                "correct": 1
+            },
+            {
+                "question": "Hình xăm trên tay cô gái là...",
+                "answers":[
+                    "Hình Phật",
+                    "Hình con bướm",
+                    "Hình thập gía",
+                    "Hình bông hoa"
+                ],
+                "correct": 2
+            },
+            {
+                "question": "Cô gái ngồi trên tấm đệm màu gì?",
+                "answers":[
+                    "Hồng",
+                    "Trắng",
+                    "Xanh",
+                    "Vàng"
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "image": "https://uphinhnhanh.com/images/2018/07/10/67f304.jpg",
+        "questions": [
+            {
+                "question": "Cô gái mang giày màu gì",
+                "answers":[
+                    "Đen",
+                    "Trắng đen",
+                    "Trắng",
+                    "Hồng"
+                ],
+                "correct": 2
+            },
+            {
+                "question": "Hoa văn trên áo khoác ngoài?",
+                "answers":[
+                    "Hình con bướm",
+                    "Hình bông hoa",
+                    "Hình kẻ sọc",
+                    "Hình kẻ caro"
+                ],
+                "correct": 1
+            }
+        ]
+    }
 ]
