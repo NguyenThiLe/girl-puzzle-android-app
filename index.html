@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<div class="scene" id="welcome">
+    <div>
+        <div>
+            <p id="loadingText">Loading...</p>
+            <button id="startButton">Start</button>
+        </div>
+    </div>
+</div>
+<div class="scene" id="image">
+        <p>Level: <span id="level">1</span></p>
+    <div>
+        <div id="imageWrapper"></div>
+        <div id="imageLoading">Image is loading</div>
+    </div>
+</div>
+<div class="scene" id="question">
+	<div id="questionWrapper">
+	    <p>question</p>
+	    <button ng-repeat="answer in currentQuestion.answers">{{ answer }}</button>
+	</div>
+</div>
+<div class="scene" id="gameOver">
+    <p>Game Over</p>
+    <button>Play again</button>
+</div>
+</body>
+<script type="text/javascript" src="app.js"></script>
+</html>
