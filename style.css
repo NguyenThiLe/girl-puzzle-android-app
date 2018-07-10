@@ -51,10 +51,6 @@ html, body {
     vertical-align: middle;
 }
 
-.verticle-middle {
-    
-}
-
 button {
     color        : white;
     padding      : 13px 5px;
@@ -154,6 +150,10 @@ button:active {
 
 #gameOver > div > div {
     text-align: center;
+}
+
+#gameOver p {
+    padding: 15px;
 }
 
 #restartGame {

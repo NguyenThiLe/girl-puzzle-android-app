@@ -208,6 +208,7 @@ var app = function(){
     // Restart game
     this.restart = function(){
         this.level = 0;
+        this.ui.updateLevelNumber();
         this.ui.setScene('welcome');
     }
     
