@@ -133,6 +133,7 @@ button:active {
     width           : 100%;
     color           : white;
     z-index         : 3;
+    text-align      : center;
 }
 
 #question {
