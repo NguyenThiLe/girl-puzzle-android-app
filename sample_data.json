@@ -1,81 +1,81 @@
 [
 	{
-		image: "https://uphinhnhanh.com/images/2018/07/10/17e3c7.jpg",
-        questions: [
+		"image": "https://uphinhnhanh.com/images/2018/07/10/17e3c7.jpg",
+        "questions": [
             {
-                question: "Váy cô gái mặc màu gì?",
-                answers:[
+                "question": "Váy cô gái mặc màu gì?",
+                "answers":[
                     "Trắng",
                     "Đen",
                     "Xanh đậm",
                     "Vàng"
                 ],
-                correct: 2
+                "correct": 2
             },
             {
-                question: "Tóc cô gái màu gì?",
-                answers:[
+                "question": "Tóc cô gái màu gì?",
+                "answers":[
                     "Vàng",
                     "Đen",
                     "Xanh",
                     "Tím"
                 ],
-                correct: 0
+                "correct": 0
             },
             {
-                question: "Tay trái cô gái đang làm gì?",
-                answers:[
+                "question": "Tay trái cô gái đang làm gì?",
+                "answers":[
                     "Không làm gì",
                     "Vuốt tóc",
                     "Cầm điện thoại",
                     "Giơ lên"
                 ],
-                correct: 1
+                "correct": 1
             }
         ]
 	},
 	{
-		image: "https://uphinhnhanh.com/images/2018/07/10/2e6ede.jpg",
-		questions: [
+		"image": "https://uphinhnhanh.com/images/2018/07/10/2e6ede.jpg",
+		"questions": [
 			{
-				question: "Có bao nhiêu cô gái trong bức hình?",
-				answers:[
+				"question": "Có bao nhiêu cô gái trong bức hình?",
+				"answers":[
 					"5",
 					"6",
 					"7",
 					"8"
 				],
-				correct: 1
+				"correct": 1
 			},
 			{
-				question: "Chỉ một cô gái mặc váy, đó là cô gái...",
-				answers:[
+				"question": "Chỉ một cô gái mặc váy, đó là cô gái...",
+				"answers":[
 					"Ngoài cùng bên phải",
 					"Ngoài cùng bên trái",
 					"Thứ 3 từ trái sang",
 					"Thứ 2 từ phải sang"
 				],
-				correct: 0
+				"correct": 0
 			},
 			{
-				question: "Có bao nhiêu cô gái đeo kính?",
-				answers:[
+				"question": "Có bao nhiêu cô gái đeo kính?",
+				"answers":[
 					"Không có",
 					"1",
 					"2",
 					"3"
 				],
-				correct: 1
+				"correct": 1
 			},
 			{
-				question: "Cô gái nào để điện thoại ở túi quần sau?",
-				answers:[
+				"question": "Cô gái nào để điện thoại ở túi quần sau?",
+				"answers":[
 					"Cô thứ 2 phải sang",
 					"Cô thứ 3 trái sang",
 					"Cô thứ 2 trái sang",
 					"Cô thứ 3 phải sang"
 				],
-				correct: 2
+				"correct": 2
 			}
 		]
 	}
