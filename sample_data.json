@@ -10,7 +10,7 @@
                     "Xanh đậm",
                     "Vàng"
                 ],
-                correct: 0
+                correct: 2
             },
             {
                 question: "Tóc cô gái màu gì?",
@@ -30,7 +30,7 @@
                     "Cầm điện thoại",
                     "Giơ lên"
                 ],
-                correct: 0
+                correct: 1
             }
         ]
 	},
@@ -45,7 +45,7 @@
 					"7",
 					"8"
 				],
-				correct: 0
+				correct: 1
 			},
 			{
 				question: "Chỉ một cô gái mặc váy, đó là cô gái...",
@@ -65,8 +65,18 @@
 					"2",
 					"3"
 				],
-				correct: 0
-			}
+				correct: 1
+			},
+			{
+				question: "Cô gái nào để điện thoại ở túi quần sau?",
+				answers:[
+					"Cô thứ 2 phải sang",
+					"Cô thứ 3 trái sang",
+					"Cô thứ 2 trái sang",
+					"Cô thứ 3 phải sang"
+				],
+				correct: 2
+			Ư
 		]
 	}
 ]
