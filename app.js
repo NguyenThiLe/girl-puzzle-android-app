@@ -1,5 +1,5 @@
 // First of all, we define url where get data
-const DATA_URL = 'https://buivannguyen.com/girl_question_app_data.json';
+const DATA_URL = 'https://buivannguyen.com/girl-puzzle-android-app/sample_data.json';
 
 /*
  * Network object
@@ -200,6 +200,12 @@ var app = function(){
 
     // Next level
     this.nextLevel = function(){
+        if (this.level == this.data.length - 1){
+            alert("Bạn đã chiến thắng");
+            this.restart();
+            return;
+        }
+
         this.level++;
         this.ui.updateLevelNumber();
         this.ui.setScene('image');
