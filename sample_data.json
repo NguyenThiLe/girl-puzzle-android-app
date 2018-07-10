@@ -1,69 +1,69 @@
 [
 	{
-		image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/%27Calypso%27_Panorama_of_Spirit%27s_View_from_%27Troy%27.jpg/1920px-%27Calypso%27_Panorama_of_Spirit%27s_View_from_%27Troy%27.jpg",
-		questions: [
-			{
-				question: "Toan canh buc anh la mau gi",
-				answers:[
-					"do",
-					"den",
-					"vang",
-					"trang"
-				],
-				correct: 0
-			},
-			{
-				question: "2Toan canh buc anh la mau gi",
-				answers:[
-					"2do",
-					"2den",
-					"2vang",
-					"2trang"
-				],
-				correct: 0
-			},
-			{
-				question: "3Toan canh buc anh la mau gi",
-				answers:[
-					"3do",
-					"3den",
-					"3vang",
-					"3trang"
-				],
-				correct: 0
-			}
-		]
+		image: "https://uphinhnhanh.com/images/2018/07/10/17e3c7.jpg",
+        questions: [
+            {
+                question: "Váy cô gái mặc màu gì?",
+                answers:[
+                    "Trắng",
+                    "Đen",
+                    "Xanh đậm",
+                    "Vàng"
+                ],
+                correct: 0
+            },
+            {
+                question: "Tóc cô gái màu gì?",
+                answers:[
+                    "Vàng",
+                    "Đen",
+                    "Xanh",
+                    "Tím"
+                ],
+                correct: 0
+            },
+            {
+                question: "Tay trái cô gái đang làm gì?",
+                answers:[
+                    "Không làm gì",
+                    "Vuốt tóc",
+                    "Cầm điện thoại",
+                    "Giơ lên"
+                ],
+                correct: 0
+            }
+        ]
 	},
 	{
-		image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/%27Calypso%27_Panorama_of_Spirit%27s_View_from_%27Troy%27.jpg/1920px-%27Calypso%27_Panorama_of_Spirit%27s_View_from_%27Troy%27.jpg",
+		image: "https://uphinhnhanh.com/images/2018/07/10/2e6ede.jpg",
 		questions: [
 			{
-				question: "Toan canh buc anh la mau gi2",
+				question: "Có bao nhiêu cô gái trong bức hình?",
 				answers:[
-					"do2",
-					"den2",
-					"vang2",
-					"trang2"
+					"5",
+					"6",
+					"7",
+					"8"
 				],
 				correct: 0
 			},
 			{
-				question: "2Toan canh buc anh la mau gi",
+				question: "Chỉ một cô gái mặc váy, đó là cô gái...",
 				answers:[
-					"2do",
-					"2den",
-					"2vang",
-					"2trang"
+					"Ngoài cùng bên phải",
+					"Ngoài cùng bên trái",
+					"Thứ 3 từ trái sang",
+					"Thứ 2 từ phải sang"
 				],
 				correct: 0
 			},
 			{
-				question: "3Toan canh buc anh la mau gi",
+				question: "Có bao nhiêu cô gái đeo kính?",
 				answers:[
-					"3do",
-					"3den",
-					"3vang",
-					"3trang"
+					"Không có",
+					"1",
+					"2",
+					"3"
 				],
 				correct: 0
 			}
