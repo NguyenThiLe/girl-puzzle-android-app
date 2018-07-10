@@ -22,14 +22,23 @@
     </div>
 </div>
 <div class="scene" id="question">
-	<div id="questionWrapper">
-	    <p>question</p>
-	    <button ng-repeat="answer in currentQuestion.answers">{{ answer }}</button>
+	<div>
+        <div>
+    	    <p id="questionText">question</p>
+            <button id="answerButton0">{{ answer }}</button>
+            <button id="answerButton1">{{ answer }}</button>
+            <button id="answerButton2">{{ answer }}</button>
+    	    <button id="answerButton3">{{ answer }}</button>
+        </div>
 	</div>
 </div>
 <div class="scene" id="gameOver">
-    <p>Game Over</p>
-    <button>Play again</button>
+    <div>
+        <div>
+            <p>Game Over</p>
+            <button id="restartGame">Play again</button>
+        </div>
+    </div>
 </div>
 </body>
 <script type="text/javascript" src="app.js"></script>

@@ -1,0 +1,72 @@
+[
+	{
+		image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/%27Calypso%27_Panorama_of_Spirit%27s_View_from_%27Troy%27.jpg/1920px-%27Calypso%27_Panorama_of_Spirit%27s_View_from_%27Troy%27.jpg",
+		questions: [
+			{
+				question: "Toan canh buc anh la mau gi",
+				answers:[
+					"do",
+					"den",
+					"vang",
+					"trang"
+				],
+				correct: 0
+			},
+			{
+				question: "2Toan canh buc anh la mau gi",
+				answers:[
+					"2do",
+					"2den",
+					"2vang",
+					"2trang"
+				],
+				correct: 0
+			},
+			{
+				question: "3Toan canh buc anh la mau gi",
+				answers:[
+					"3do",
+					"3den",
+					"3vang",
+					"3trang"
+				],
+				correct: 0
+			}
+		]
+	},
+	{
+		image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/%27Calypso%27_Panorama_of_Spirit%27s_View_from_%27Troy%27.jpg/1920px-%27Calypso%27_Panorama_of_Spirit%27s_View_from_%27Troy%27.jpg",
+		questions: [
+			{
+				question: "Toan canh buc anh la mau gi2",
+				answers:[
+					"do2",
+					"den2",
+					"vang2",
+					"trang2"
+				],
+				correct: 0
+			},
+			{
+				question: "2Toan canh buc anh la mau gi",
+				answers:[
+					"2do",
+					"2den",
+					"2vang",
+					"2trang"
+				],
+				correct: 0
+			},
+			{
+				question: "3Toan canh buc anh la mau gi",
+				answers:[
+					"3do",
+					"3den",
+					"3vang",
+					"3trang"
+				],
+				correct: 0
+			}
+		]
+	}
+]
