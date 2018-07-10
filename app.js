@@ -60,9 +60,9 @@ var ui = function(app){
 
     // Set current scene
     this.setScene = function(sceneName){
-        // Get then hide all elements have class .scene
+        // Get all elements have class .scene
         var elements = document.getElementsByClassName('scene');
-
+        // Then hide them
         [].forEach.call( elements, function(element) {
             element.style.display = 'none';
         });
@@ -124,7 +124,7 @@ var ui = function(app){
 }
 
 /*
- * Main application supper object
+ * Main application super object
  */
 
 var app = function(){
@@ -170,6 +170,7 @@ var app = function(){
         );
     }
 
+    // Start new game
     this.start = function(){
         this.ui.setScene('image');
         this.loadImage();
@@ -177,7 +178,7 @@ var app = function(){
 
     // Pick a ramdom question then show it
     this.pickAndShowQuestion = function(){
-        // Pick a question
+        // Pick a random question
         var questions = this.data[this.level].questions;
         var random    = Math.round(Math.random() * (questions.length - 1));
         this.question = questions[random];
