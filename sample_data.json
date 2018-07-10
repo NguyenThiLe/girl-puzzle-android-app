@@ -145,7 +145,7 @@
 					"Mặc quần xanh",
 					"Đeo vòng tay"
 				],
-				"correct": 2
+				"correct": 1
 			},
 			{
 				"question": "Con số trên tay áo cô gái bên trái?",
@@ -154,6 +154,66 @@
 					"32",
 					"21",
 					"12"
+				],
+				"correct": 1
+			}
+		]
+	},
+	{
+		"image": "https://uphinhnhanh.com/images/2018/07/10/5dea1d.jpg",
+		"questions": [
+			{
+				"question": "Hình xăm trên ngực cô gái là...",
+				"answers":[
+					"Hình Phật",
+					"Hình con bướm",
+					"Hình thập gía",
+					"Hình bông hoa"
+				],
+				"correct": 1
+			},
+			{
+				"question": "Hình xăm trên tay cô gái là...",
+				"answers":[
+					"Hình Phật",
+					"Hình con bướm",
+					"Hình thập gía",
+					"Hình bông hoa"
+				],
+				"correct": 2
+			},
+			{
+				"question": "Cô gái ngồi trên tấm đệm màu gì?",
+				"answers":[
+					"Hồng",
+					"Trắng",
+					"Xanh",
+					"Vàng"
+				],
+				"correct": 1
+			}
+		]
+	},
+	{
+		"image": "https://uphinhnhanh.com/images/2018/07/10/67f304.jpg",
+		"questions": [
+			{
+				"question": "Cô gái mang giày màu gì",
+				"answers":[
+					"Đen",
+					"Trắng đen",
+					"Trắng",
+					"Hồng"
+				],
+				"correct": 2
+			},
+			{
+				"question": "Hoa văn trên áo khoác ngoài?",
+				"answers":[
+					"Hình con bướm",
+					"Hình bông hoa",
+					"Hình kẻ sọc",
+					"Hình kẻ caro"
 				],
 				"correct": 1
 			}
